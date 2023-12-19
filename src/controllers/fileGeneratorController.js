@@ -1,4 +1,4 @@
-const fileGeneratorModel = require("../fileGeneratorModel");
+const fileGeneratorModel = require("../modules/fileGeneratorModel");
 
 const generateFile = (req, res) => {
     fileGeneratorModel.generateFile(req.body);

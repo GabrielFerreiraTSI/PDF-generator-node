@@ -1,3 +1,5 @@
 node_modules
 page
-teste
+teste.js
+src/views/teste.ejs
+pdf/arquivo.pdf
